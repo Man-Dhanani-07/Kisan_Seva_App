@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "531863921888",
+    "firebase_url": "https://fapp-a9792-default-rtdb.firebaseio.com",
+    "project_id": "fapp-a9792",
+    "storage_bucket": "fapp-a9792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531863921888:android:be9248bea5eac1d0911c85",
+        "android_client_info": {
+          "package_name": "com.man.fapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD127pWNGBOZmMkPqBarYEINZgUeHa8ccw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

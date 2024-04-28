@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/floatbtn</item>
+
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="Theme.FApp" parent="Base.Theme.FApp" />
+    <style name="App.CustomeIndicatior" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:color">#336791</item>
+    </style>
+    <style name="RoundedShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+
+
+
+
+</resources>

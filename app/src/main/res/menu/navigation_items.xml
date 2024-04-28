@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_quality"
+        android:title="Testing Quality"
+        android:icon="@drawable/high_quality"/>
+
+    <item
+        android:id="@+id/nav_orders"
+        android:title="Orders"
+        android:icon="@drawable/orders"/>
+
+    <item
+        android:id="@+id/nav_language"
+        android:title="Change Language"
+        android:icon="@drawable/translate"/>
+    <item
+        android:id="@+id/nav_weather"
+        android:title="Weather"
+        android:icon="@drawable/weather"/>
+    <item
+        android:id="@+id/nav_signout"
+        android:title="Sign Out"
+        android:icon="@drawable/logout"/>
+    </group>
+</menu>
